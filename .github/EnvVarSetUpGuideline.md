@@ -4,8 +4,6 @@ This document provides a step-by-step guide to setting up the required `.env` fi
 
 ---
 
-## **Backend `.env` Variables**
-
 1. **`DBURL (Mongo URL)`**
 
    - **Description:** The MongoDB connection string.
